@@ -1,12 +1,19 @@
 Trabalho 1 - myPod
 
+Para o controle de versões, foram criadas os seguintes branches:
+bugA e bugB - branches para correções 
+funcionalidadeA - branch para novas funcionalidades
+preDevelop - (teste dos merges)
+develop - merges para depois enviar para a main
+main - branch principal
+V2024.10.1 - versão/release
+
 - Todas as issues criadas têm suas descrições documentadas.
 - As versões são entregues semanalmente, visto que as atualizações de imagens ficam disponíveis com prazo de uma semana.
-- Os branches de versão foram criados pelo próprio paindel de comando.
+- Os branches de versão foram criados por linha de comando.
 - A correção emergencial não alterou a versão. A alteração foi feita no branch de bugs, enviado para a main via PR e posteriormente feito merge para a versão do cliente, para garantir o processo e a qualidade. 
 
 Atividades para o desenvolvimento:
-
 
 1. Criado novo repositório trabalhoum
 2. Conectado no novo repositório: git remote add origin http://github.com/gabrielabonella/trabalhoum
