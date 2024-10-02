@@ -13,6 +13,6 @@ Para acessar a página, você precisará de um navegador de internet.
 
 ## 🛠️ Construído com
 
-Com o Sublime Text nas Linguagem HTML e CSS
+Sublime Text nas Linguagem HTML e CSS
 
 ## ❤️ Bom proveito!
