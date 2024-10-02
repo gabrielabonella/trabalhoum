@@ -15,4 +15,7 @@ Para acessar a página, você precisará de um navegador de internet.
 
 Sublime Text nas Linguagem HTML e CSS
 
+## 💡 Mais informações do desenvolvimento:
+## [guide.me](https://github.com/gabrielabonella/trabalhoum/blob/main/docs/guide.md) 
+
 ## ❤️ Bom proveito!
